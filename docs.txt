@@ -1,0 +1,25 @@
+- FRONTEND:
+  REACT-NATIVE
+- BACKEND:
+  FIREBASE REALTIME DATABASE
+- ACOES:
+  LISTAR
+  ADICIONAR
+  EXCLUIR
+  EDITAR
+- LIBS
+  firebase (BANCO NOSQL)
+  formik e yup (VALIDACAO DOS CAMPOS)
+  react-native-image-picker (CAPTURAR FOTO)
+  react-native-elements (COMPONENTES PRONTOS)
+  react-native-masked-text (MASCARAS NOS CAMPOS)
+  @react-navigation/native (NAVEGACAO ENTRE PAGINAS)
+
+OBS:
+  Não foi adicionado campo de pesquisa
+
+- RODAR PROJETO
+  - git clone https://github.com/nazio11/develCode.git 
+  - npm install
+  - react-native run-android
+  
